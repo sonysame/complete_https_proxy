@@ -1,0 +1,59 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=KR, CN=heeeye0n
+        Validity
+            Not Before: Mar  1 00:00:00 2014 GMT
+            Not After : Feb 27 00:00:00 2024 GMT
+        Subject: C=KR, CN=www.google.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d3:2e:1a:71:fd:7a:7e:f3:a8:6b:5c:5f:be:fb:
+                    ef:e2:e9:cd:5a:fc:84:76:cc:98:0f:b9:82:e1:ba:
+                    52:08:8d:cf:b6:40:1f:a4:9d:4c:5c:85:51:9c:87:
+                    b5:94:ca:6b:b8:cb:d2:3a:76:d9:12:3e:5e:65:8a:
+                    93:b5:85:67:5f:53:01:b3:b6:db:2f:ff:95:89:25:
+                    a4:28:8e:6e:88:b2:ba:b5:29:58:8c:53:2a:cd:d3:
+                    e4:17:ce:5d:ae:e2:87:5d:d4:31:eb:57:6f:f5:59:
+                    03:97:c1:66:c0:00:fc:fd:df:e1:27:96:41:09:f7:
+                    bd:54:9d:7c:44:a1:fd:f6:87
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                E1:0F:C5:95:D7:ED:B3:7F:D6:63:79:D9:AE:46:30:A8:FE:96:82:FB
+            X509v3 Authority Key Identifier: 
+                DirName:/C=KR/CN=heeeye0n
+                serial:DB:31:73:E8:30:4C:09:3A
+
+    Signature Algorithm: sha256WithRSAEncryption
+         58:af:6a:6c:39:79:71:ff:e3:16:e5:86:02:fe:9c:98:0b:91:
+         24:80:e4:ee:4b:4a:1f:46:d8:4b:91:40:cf:27:b4:20:e3:6c:
+         5a:8f:9a:e7:25:ca:04:f6:22:21:76:2f:76:2d:1b:11:d3:e9:
+         ef:54:fc:79:d2:12:9f:64:62:6c:32:06:35:83:f0:14:b9:a6:
+         6c:ad:b5:9b:df:0b:58:a5:05:3d:be:15:41:51:60:cf:d4:0d:
+         ab:e6:90:a7:87:25:ee:7a:33:cc:c4:11:60:13:45:ad:70:94:
+         37:d6:1a:e1:5e:b2:42:2e:d3:32:a3:c7:9b:57:18:bc:ac:a5:
+         30:19
+-----BEGIN CERTIFICATE-----
+MIICWDCCAcGgAwIBAgIBATANBgkqhkiG9w0BAQsFADAgMQswCQYDVQQGEwJLUjER
+MA8GA1UEAwwIaGVlZXllMG4wIhgPMjAxNDAzMDEwMDAwMDBaGA8yMDI0MDIyNzAw
+MDAwMFowJjELMAkGA1UEBhMCS1IxFzAVBgNVBAMMDnd3dy5nb29nbGUuY29tMIGf
+MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTLhpx/Xp+86hrXF++++/i6c1a/IR2
+zJgPuYLhulIIjc+2QB+knUxchVGch7WUymu4y9I6dtkSPl5lipO1hWdfUwGzttsv
+/5WJJaQojm6Isrq1KViMUyrN0+QXzl2u4odd1DHrV2/1WQOXwWbAAPz93+EnlkEJ
+971UnXxEof32hwIDAQABo4GXMIGUMAkGA1UdEwQCMAAwLAYJYIZIAYb4QgENBB8W
+HU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBThD8WV1+2z
+f9ZjedmuRjCo/paC+zA6BgNVHSMEMzAxoSSkIjAgMQswCQYDVQQGEwJLUjERMA8G
+A1UEAwwIaGVlZXllMG6CCQDbMXPoMEwJOjANBgkqhkiG9w0BAQsFAAOBgQBYr2ps
+OXlx/+MW5YYC/pyYC5EkgOTuS0ofRthLkUDPJ7Qg42xaj5rnJcoE9iIhdi92LRsR
+0+nvVPx50hKfZGJsMgY1g/AUuaZsrbWb3wtYpQU9vhVBUWDP1A2r5pCnhyXuejPM
+xBFgE0WtcJQ31hrhXrJCLtMyo8ebVxi8rKUwGQ==
+-----END CERTIFICATE-----

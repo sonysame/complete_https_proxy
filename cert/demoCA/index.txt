@@ -1,0 +1,9 @@
+V	20240227000000Z		01	unknown	/C=KR/CN=www.google.com
+V	20240227000000Z		02	unknown	/C=KR/CN=kulms.korea.ac.kr
+V	20240227000000Z		03	unknown	/C=KR/CN=bam.nr-data.net
+V	20240227000000Z		04	unknown	/C=KR/CN=www.naver.com
+V	20240227000000Z		05	unknown	/C=KR/CN=ssl.pstatic.net
+V	20240227000000Z		06	unknown	/C=KR/CN=pm.pstatic.net
+V	20240227000000Z		07	unknown	/C=KR/CN=s.pstatic.net
+V	20240227000000Z		08	unknown	/C=KR/CN=nv.veta.naver.com
+V	20240227000000Z		09	unknown	/C=KR/CN=castbox.shopping.naver.com
